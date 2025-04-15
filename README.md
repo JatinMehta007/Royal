@@ -26,6 +26,9 @@ A beautifully designed static website inspired by Royal Enfield motorcycles. Bui
 ![Royal Enfield Website Screenshot](images/image.png)
 ---
 
+![Royal Enfield Website Screenshot](images/image1.png)
+---
+
 ## 🔧 Installation & Setup
 
 1. **Clone the repo**
