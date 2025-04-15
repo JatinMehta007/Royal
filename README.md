@@ -23,8 +23,6 @@ A beautifully designed static website inspired by Royal Enfield motorcycles. Bui
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ![Royal Enfield Website Screenshot](images/image.png)
 ---
 
